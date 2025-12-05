@@ -450,21 +450,6 @@
     "imdb_rating": "8.3"
   },
   {
-    "imdb_id": "tt0120738",
-    "title": "The Lord of the Rings: The Two Towers",
-    "year": "2002",
-    "rated": "PG-13",
-    "runtime": "179 min",
-    "genre": "Adventure, Drama, Fantasy",
-    "director": "Peter Jackson",
-    "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen",
-    "plot": "While Frodo and Sam continue their quest, the remaining members of the Fellowship join with the Ents to fight against Saruman's Orc army.",
-    "language": "English, Sindarin",
-    "country": "New Zealand, USA",
-    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzViNDBjNDMtMmYxOS00ZDcyLTk4NGQtZGQwMmIyODc2NGZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "imdb_rating": "8.7"
-  },
-  {
     "imdb_id": "tt0078748",
     "title": "Alien",
     "year": "1979",
@@ -780,6 +765,7 @@
     "imdb_rating": "8.3"
   }
 ]
+
 
 
 

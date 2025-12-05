@@ -374,7 +374,6 @@
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_SX300.jpg",
         "imdb_rating": "8.6"
     },
-    [
   {
     "imdb_id": "tt0053125",
     "title": "North by Northwest",
@@ -781,6 +780,7 @@
     "imdb_rating": "8.3"
   }
 ]
+
 
 
 
